@@ -1,0 +1,27 @@
+Bill of Material for 
+On 04.03.2018 at 18:33:49
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ ?                   CAP 0603/1608    1    C4                           CAP CER 82PF 50V C0G 0603 
+ 100nF               CAP 0603/1608    2    C1, C5                       CAP CER 82PF 50V C0G 0603 
+ 100uF               CAP 0603/1608    1    C2                           CAP CER 82PF 50V C0G 0603 
+ 10K                 RES 0603/1608    8    R27, R28, R29, R30, R31, R32 RES SMD 232 OHM 1% 1/10W 0603 
+                                           R33, R34
+ 10uF                CAP 0603/1608    1    C3                           CAP CER 82PF 50V C0G 0603 
+ 2088RGB 8*8 Matrix  PCBComponent_1    1    *                            8*8 RGB Led Matrix   
+ ATxmega64A4-AU      44A_N            1    U1                           8/16-bit AVR XMEGA A4 Microcontroller, 1.6-3.6V, 64KB + 4KB Flash, 2KB EEPROM, 4KB SRAM, 44-pin TQFP, Industrial Grade (-40°C to 85°C), Pb-Free 
+ AVR_SPI_HDR_6P      HEADER_3x2       1    J1                                                
+ B2B-XH-A(LF)(SN)    JST XH B2B-XH-A    1    J2                           CONN HEADER XH TOP 2POS 2.5MM 
+ N&P-Channel MOSFET IC SSOT-6           8    FDC1, FDC2, FDC3, FDC4, FDC5                      
+                                           FDC6, FDC7, FDC8
+ Resistor            RESC0603(1608)_N   26    R1, R2, R3, R4, R5, R6, R7                        
+                                           R8, R9, R10, R11, R12, R13
+                                           R14, R15, R16, R17, R18, R19
+                                           R20, R21, R22, R23, R24, R25
+                                           R26
+ TLV1117-33CDCYR     SOT230P700X180-4N    1    U2                           IC REG LIN 3.3V 800MA SOT223-4 
+ TSM2314             SOT95P280X130-3N   24    Q9, Q10, Q11, Q12, Q13, Q14  N-Channel MOSFET     
+                                           Q15, Q16, Q17, Q18, Q19, Q20
+                                           Q21, Q22, Q23, Q24, Q25, Q26
+                                           Q27, Q28, Q29, Q30, Q31, Q32
